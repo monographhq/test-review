@@ -1,7 +1,7 @@
 This take-home test was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Getting started
-- Clone the repo: `git clone git@github.com:monographhq/test-frontend.git`
+- Clone the repo: `git clone git@github.com:monographhq/test-review.git`
 - Install dependencies: `yarn`
 - Make sure the app runs: `yarn start`
 
