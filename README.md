@@ -22,7 +22,7 @@ Design Reference: [Figma File](https://www.figma.com/file/jjqRhIa54hOakjjAWkpbmC
     ```
 3. **Product decision** - We're a small team at Monograph so you may be asked to make recommendations based on a feature we're building. Code from scratch, modify a library, or use a best practice idea is often a decision we're confronted with. You'll be adding an emoji selector to the form on the left. In the [Figma File](https://www.figma.com/file/jjqRhIa54hOakjjAWkpbmC/Take-home-frontend-test?node-id=0%3A1) we've added a few ideas, but we'd like to see your thinking around the best way to implement a feature which allows a user to express their emotions after dining somewhere.
 
-    In your README doc, write a few sentences about why you might pick a certain direction.
+    In your README doc, write a few sentences about why you might pick a certain direction. Feel free to copy the Figma file and test ideas visually. 
 
 4. **Add emoji selector** - Now implement your idea in code and render it on the right in the Preview section.
 5. **Style preview card** - Based on the [Figma File](https://www.figma.com/file/jjqRhIa54hOakjjAWkpbmC/Take-home-frontend-test?node-id=0%3A1), add CSS styling to the Preview area. In Figma you can click the "Code" tab in the upper right to get the relevant CSS values for each element you click.
